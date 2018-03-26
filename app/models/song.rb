@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 
 class Song < ActiveRecord::Base
   belongs_to :artist
